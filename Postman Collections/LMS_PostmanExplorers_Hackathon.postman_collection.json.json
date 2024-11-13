@@ -404,6 +404,18 @@
 				"url": "https://lms-hackthon-oct24-3efc7e0df381.herokuapp.com/lms/deletebyprogid/18003"
 			},
 			"response": []
+		},
+		{
+			"name": "TestingRequest",
+			"id": "30ea6c8b-08bc-496a-819b-e05cf9c29bc9",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
 		}
 	]
 }
