@@ -80,7 +80,7 @@
 				"auth": {
 					"type": "bearer",
 					"bearer": {
-						"token": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJTZGV0QGdtYWlsLmNvbSIsImlhdCI6MTczMTUyMjU2OSwiZXhwIjoxNzMxNTUxMzY5fQ.B3X2a0o2G0Z-ZPudco2iNHIbQ_KgPUbg0uZElsBiW-5qpfoAsH2TD71I8447G478Db2Oyb6TmJu44OmfIrkXvw"
+						"token": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJTZGV0QGdtYWlsLmNvbSIsImlhdCI6MTczMTU3MjQzMSwiZXhwIjoxNzMxNjAxMjMxfQ.-8CLkqz8N_Ccw-_ZlI7JyMolXDd674dk7H_ST3B3bwe-6SOfx0t5hYQVhMoVjkC3KVfLp7OlKIa-a_GyoPvsow"
 					}
 				},
 				"method": "POST",
